@@ -76,6 +76,7 @@
     <Content Include="Content\Images\numero_7.png" />
     <Content Include="Content\Images\numero_8.png" />
     <Content Include="Content\Images\numero_9.png" />
+    <Content Include="Content\Styles\ejercicio4.css" />
     <Content Include="Content\Styles\ejercicio3.css" />
     <Content Include="Content\Styles\ejercicio1.css" />
     <Content Include="Content\Styles\ejercicio2.css" />
@@ -85,7 +86,7 @@
     <Content Include="Ejercicio2.aspx" />
     <Content Include="Ejercicio3.aspx" />
     <Content Include="Ejercicio4.aspx" />
-    <Content Include="Ejercicio5.aspx" />
+    <Content Include="leernotas.aspx" />
     <Content Include="Ejercicio6.aspx" />
     <Content Include="Ejercicio7.aspx" />
     <Content Include="Web.config" />
@@ -119,12 +120,12 @@
     <Compile Include="Ejercicio4.aspx.designer.cs">
       <DependentUpon>Ejercicio4.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Ejercicio5.aspx.cs">
-      <DependentUpon>Ejercicio5.aspx</DependentUpon>
+    <Compile Include="leernotas.aspx.cs">
+      <DependentUpon>leernotas.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Ejercicio5.aspx.designer.cs">
-      <DependentUpon>Ejercicio5.aspx</DependentUpon>
+    <Compile Include="leernotas.aspx.designer.cs">
+      <DependentUpon>leernotas.aspx</DependentUpon>
     </Compile>
     <Compile Include="Ejercicio6.aspx.cs">
       <DependentUpon>Ejercicio6.aspx</DependentUpon>
