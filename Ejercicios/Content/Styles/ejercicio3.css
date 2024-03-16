@@ -1,0 +1,61 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+    background: #fff;
+}
+
+.page {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.form {
+    width: 20rem;
+    border-radius: 0.4rem;
+    background: #e0e0e0;
+    padding: 1rem;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 0.4rem;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+.form-input {
+    width: 100%;
+    height: 2.4rem;
+    border-radius: 0.4rem;
+    border: none;
+    outline: none;
+    background: #ffffff;
+    padding: 0 0.5rem;
+}
+
+.btn-calcular {
+    width: 100%;
+    padding: 0.6rem 0.2rem;
+    margin-top: 1rem;
+    border-radius: 0.4rem;
+    text-align: center;
+    background: #3578ca;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+}
+
+.result {
+    display: block;
+    margin-top: 1rem;
+    font-size: 0.7rem;
+    line-height: 1.2rem;
+    font-weight: 700;
+}

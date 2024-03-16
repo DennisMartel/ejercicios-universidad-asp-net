@@ -76,6 +76,7 @@
     <Content Include="Content\Images\numero_7.png" />
     <Content Include="Content\Images\numero_8.png" />
     <Content Include="Content\Images\numero_9.png" />
+    <Content Include="Content\Styles\ejercicio3.css" />
     <Content Include="Content\Styles\ejercicio1.css" />
     <Content Include="Content\Styles\ejercicio2.css" />
     <Content Include="Content\Styles\Ejercicio6.css" />
