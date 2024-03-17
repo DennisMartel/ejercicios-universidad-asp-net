@@ -89,6 +89,7 @@
     <Content Include="leernotas.aspx" />
     <Content Include="Ejercicio6.aspx" />
     <Content Include="Ejercicio7.aspx" />
+    <Content Include="notas.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -140,6 +141,13 @@
     </Compile>
     <Compile Include="Ejercicio7.aspx.designer.cs">
       <DependentUpon>Ejercicio7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="notas.aspx.cs">
+      <DependentUpon>notas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="notas.aspx.designer.cs">
+      <DependentUpon>notas.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

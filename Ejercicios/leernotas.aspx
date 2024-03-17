@@ -62,7 +62,7 @@
                     <tr>
                         <td></td>
                         <td>
-                            <asp:Button ID="btn_calcularNota" runat="server" Text="Calcular" />
+                            <asp:Button ID="btn_calcularNota" runat="server" Text="Calcular" OnClick="btn_calcularNota_Click" />
                         </td>
                     </tr>
                 </table>
